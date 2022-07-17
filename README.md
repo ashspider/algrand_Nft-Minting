@@ -1,5 +1,5 @@
 # Algrand_Nft-Minting
-Run Algorand JavaScript SDK to mint NFT in Algorand Blockchain.
+Using Algorand JavaScript SDK to mint NFT in Algorand Blockchain.
 
 # Steps to Deploy
 1.npm init
